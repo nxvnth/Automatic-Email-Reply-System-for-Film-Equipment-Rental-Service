@@ -1,0 +1,89 @@
+--- Positive Review Email ---
+From: Oliver <oliver@example.com>
+Subject: Excellent Service and Equipment
+
+Hi,
+Just wanted to drop a quick note to say how impressed I was with the professional-grade drones I rented last week. Your staff was knowledgeable and the equipment was top-notch!
+Thank you,
+Oliver
+
+--- General Inquiry Email ---
+From: Nicole <nicole@example.com>
+Subject: Inquiry About Bulk Rental Discounts
+
+Hello,
+I represent a film production company, and we're looking at potential suppliers for a large volume of equipment rentals over the next year. Do you offer any discounts for bulk rentals?
+Thanks,
+Nicole
+
+--- General Inquiry Email ---
+From: Jordan <jordan@example.com>
+Subject: Partnership Opportunity
+
+Dear Film Gear Rentals,
+We are interested in exploring a partnership with your company to provide exclusive equipment rentals for our upcoming film festivals. Please let me know whom I should speak to about this opportunity.
+Kind regards,
+Jordan
+
+--- Negative Review Email ---
+From: Casey <casey@example.com>
+Subject: Problem with Sound Equipment
+
+To Whom It May Concern,
+The microphones I rented for my event last Saturday had some static issues which affected the recording quality. I would appreciate if you could address this matter.
+Sincerely,
+Casey
+
+--- Inquiry Email ---
+From: Jamie <jamie@example.com>
+Subject: Availability Check for RED Komodo 6K Camera
+
+Hi there,
+I was wondering if you have the RED Komodo 6K Camera available for rent this coming weekend? Could you also let me know the pricing?
+Thanks,
+Jamie
+
+--- Assistance Request Email ---
+From: Taylor <taylor@example.com>
+Subject: Problem with Camera Lens
+
+Hello,
+I'm currently renting the Canon RF 70-200mm lens from you, and I'm experiencing some issues with the autofocus not working properly. Is there a quick fix for this?
+Thank you,
+Taylor
+
+--- Assistance Request Email ---
+From: Jesse <jesse@example.com>
+Subject: Urgent: Gimbal Malfunctioning
+
+Hi,
+The gimbal I rented seems to have a calibration issue and is not stabilizing correctly. Could you provide some assistance on how to reset it or should I bring it in?
+Best regards,
+Jesse
+
+--- Inquiry Email ---
+From: Morgan <morgan@example.com>
+Subject: Need Info on Sony A7s III Availability
+
+Hello,
+I'm looking to rent the Sony A7s III for a documentary shoot next month. Is it available, and if so, what are your rates for a two-week rental?
+Cheers,
+Morgan
+
+--- Positive Review Email ---
+From: Samantha <samantha@example.com>
+Subject: Great Experience with Your Equipment!
+
+Hello,
+I recently rented the Arri Alexa Mini from your service for my short film project, and I was thrilled with the performance of the equipment. The rental process was smooth, and your team was very helpful!
+Best,
+Samantha
+
+--- Negative Review Email ---
+From: Alex <alex@example.com>
+Subject: Issue with Lighting Equipment Rental
+
+Dear Team,
+I rented some lighting equipment last week, and unfortunately, a couple of the units were flickering which slightly disrupted our shooting schedule. I hope this can be looked into.
+Regards,
+Alex
