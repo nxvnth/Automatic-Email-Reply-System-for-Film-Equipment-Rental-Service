@@ -1,12 +1,12 @@
 # Automatic-Email-Reply-System-for-Film-Equipment-Rental-Service
 
 ## Contents:
-  * [Objective](#objective:)
-  * [Categories and Actions](#categories-and-actions:)
-      * [Inquiry Handling](#inquiry-handling:)
-      * [Review Handling](#review-handling:)
-      * [Assistance Request Handling](#assistance-request-handling:)
-      * [General Handling](#general-handling:)
+  * [Objective](#objective)
+  * [Categories and Actions](#categories-and-actions)
+      * [Inquiry Handling](#inquiry-handling)
+      * [Review Handling](#review-handling)
+      * [Assistance Request Handling](#assistance-request-handling)
+      * [General Handling](#general-handling)
   * [Database](#database)
   * [Working](#working)
    
