@@ -9,6 +9,7 @@
       * [General Handling](#general-handling)
   * [Database](#database)
   * [Working](#working)
+  * [Things left to do](#things-left-to-do)
    
 ## Objective:
 Design and implement alangchain based  system that classifies incoming emails into three categories and executes specific actions based on the category. The system should enhance customer interaction by providing automated responses tailored to inquiries, reviews, and assistance requests.
