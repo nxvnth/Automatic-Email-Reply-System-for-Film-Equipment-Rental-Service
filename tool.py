@@ -1,7 +1,7 @@
 # flake8: noqa
 """Tools for interacting with a SQL database."""
-
-from typing import Any, Dict, Optional, Sequence, Type, Union
+import re
+from typing import Any, Dict, Optional, Sequence, Type, Union, List
 
 from sqlalchemy.engine import Result
 
@@ -34,7 +34,7 @@ class _QuerySQLDataBaseToolInput(BaseModel):
 class QuerySQLDataBaseTool(BaseSQLDatabaseTool, BaseTool):
     """Tool for querying a SQL database."""
 
-    name: str = "sql_db_query"
+    name: str = "sql\_db\_query"
     description: str = """
     Execute a SQL query against the database and get back the result..
     If the query is not correct, an error message will be returned.
@@ -64,7 +64,7 @@ class _InfoSQLDatabaseToolInput(BaseModel):
 class InfoSQLDatabaseTool(BaseSQLDatabaseTool, BaseTool):
     """Tool for getting metadata about a SQL database."""
 
-    name: str = "sql_db_schema"
+    name: str = "sql\_db\_schema"
     description: str = "Get the schema and sample rows for the specified SQL tables."
     args_schema: Type[BaseModel] = _InfoSQLDatabaseToolInput
 
@@ -86,7 +86,7 @@ class _ListSQLDataBaseToolInput(BaseModel):
 class ListSQLDatabaseTool(BaseSQLDatabaseTool, BaseTool):
     """Tool for getting tables names."""
 
-    name: str = "sql_db_list_tables"
+    name: str = "sql\_db\_list\_tables"
     description: str = "Input is an empty string, output is a comma-separated list of tables in the database."
     args_schema: Type[BaseModel] = _ListSQLDataBaseToolInput
 
@@ -110,7 +110,7 @@ class QuerySQLCheckerTool(BaseSQLDatabaseTool, BaseTool):
     template: str = QUERY_CHECKER
     llm: BaseLanguageModel
     llm_chain: Any = Field(init=False)
-    name: str = "sql_db_query_checker"
+    name: str = "sql\_db\_query\_checker"  # Keep this for pydantic
     description: str = """
     Use this tool to double check if your query is correct before executing it.
     Always use this tool before executing a query with sql_db_query!
