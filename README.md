@@ -21,3 +21,6 @@ Design and implement alangchain based  system that classifies incoming emails in
 
 ## Database:
 ![alt text](PostgreSQL.png)
+
+## Working:
+![alt text](demo.mp4)
