@@ -8,7 +8,7 @@
       * [Assistance Request Handling](#assistance-request-handling)
       * [General Handling](#general-handling)
   * [Database](#database)
-  * [Working](#working)
+  * [Setup & Working](#working)
   * [Things left to do](#things-left-to-do)
    
 ## Objective:
@@ -16,7 +16,7 @@ Design and implement alangchain based  system that classifies incoming emails in
 ## Categories and Actions:
 ### Inquiry Handling:
   * Database: Develop an SQL database to store details about film equipment.
-  * Action: When an inquiry email is received, check the database for item availability.
+  * Action: When an inquiry email is received, check the database for item avalability.
   * If available, reply with the item's price.
   * If not available, suggest similar available items.
 ### Review Handling:
@@ -34,6 +34,14 @@ Design and implement alangchain based  system that classifies incoming emails in
 ![alt text](PostgreSQL.png)
 
 ## Working:
+### Setup:
+ 1. Clone the repo
+ 2. Uncomment the code in the first cell block (make sure to have jupyter notebook installed )
+ 3. Change the database uri and update llm api keys
+ 4. (OPTIONAL) make changes in emails.txt 
+ 5. Run all cells and wait till completion
+ 6. open output_results.txt
+Here is the demo:
 https://github.com/user-attachments/assets/df9d9782-4f5c-4eaa-a46f-74f6a13342ad
 
 ## Things left to do
