@@ -25,3 +25,7 @@ Design and implement alangchain based  system that classifies incoming emails in
 ## Working:
 https://github.com/user-attachments/assets/df9d9782-4f5c-4eaa-a46f-74f6a13342ad
 
+## Things left to do
+  * Assistance Request Handling is currently unavailable
+  * Yet to enable G-mail connectivity ( As of now it reads emails from email.txt, then writes the response along with the original mail to output_results.txt )
+  * Overall code needs to be more optimized and cleaned up
