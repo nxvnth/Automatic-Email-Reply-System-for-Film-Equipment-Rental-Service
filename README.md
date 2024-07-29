@@ -43,7 +43,11 @@ Design and implement alangchain based  system that classifies incoming emails in
  6. open output_results.txt
 ##
 Here is the demo:
-![alt text](https://github.com/user-attachments/assets/df9d9782-4f5c-4eaa-a46f-74f6a13342ad)
+
+https://github.com/user-attachments/assets/734ecef4-aa00-4c76-9d1f-eab4ed425a45
+
+
+
 
 ## Things left to do
   * Assistance Request Handling is currently unavailable
