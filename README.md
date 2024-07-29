@@ -18,3 +18,6 @@ Design and implement alangchain based  system that classifies incoming emails in
   * If no solution is found, escalate the issue to customer service.
 ### General Handling:
   * Forwarding: Emails that do not fit into the above categories should be forwarded to customer service for further evaluation.
+
+## Database:
+![alt text](PostgreSQL.png)
