@@ -41,8 +41,9 @@ Design and implement alangchain based  system that classifies incoming emails in
  4. (OPTIONAL) make changes in emails.txt 
  5. Run all cells and wait till completion
  6. open output_results.txt
+##
 Here is the demo:
-https://github.com/user-attachments/assets/df9d9782-4f5c-4eaa-a46f-74f6a13342ad
+![alt text](https://github.com/user-attachments/assets/df9d9782-4f5c-4eaa-a46f-74f6a13342ad)
 
 ## Things left to do
   * Assistance Request Handling is currently unavailable
